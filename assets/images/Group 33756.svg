@@ -1,0 +1,12 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 33756">
+<rect id="Rectangle" width="40" height="40" rx="20" fill="url(#paint0_linear_195_7018)"/>
+<path id="Icon" fill-rule="evenodd" clip-rule="evenodd" d="M27.612 13.4145C26.7238 12.5088 25.5188 12 24.2623 12C23.0058 12 21.8008 12.5088 20.9126 13.4145L19.9998 14.3448L19.087 13.4145C17.237 11.5291 14.2375 11.5291 12.3875 13.4145C10.5375 15.2999 10.5375 18.3567 12.3875 20.2421L13.3003 21.1724L19.9998 28L26.6992 21.1724L27.612 20.2421C28.5007 19.3369 29 18.1088 29 16.8283C29 15.5478 28.5007 14.3198 27.612 13.4145Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_195_7018" x1="40" y1="38.8571" x2="-8" y2="-10.2857" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6B46F6"/>
+<stop offset="1" stop-color="#9B9EE7"/>
+</linearGradient>
+</defs>
+</svg>
